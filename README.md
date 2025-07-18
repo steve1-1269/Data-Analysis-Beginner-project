@@ -54,9 +54,12 @@ To run these notebooks locally:
 2. Install the required libraries:
 
 pip install pandas numpy matplotlib seaborn
+
+
 3. Open any notebook in Jupyter:
 
 jupyter notebook
+
 📌 Notes
 Each notebook is standalone and does not depend on external scripts or files unless specified.
 
