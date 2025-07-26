@@ -34,6 +34,11 @@ Each notebook in this repository corresponds to a specific dataset and analysis 
    - A generic EDA notebook possibly used for template/experimentation.
    - Performs basic steps like data cleaning, null value handling, and visualization.
 
+7. 🎧 Spotify-YouTube Music Analysis
+
+ -This project analyzes a dataset of music tracks across **Spotify** and **YouTube** to uncover patterns in views, streams, likes, comments, engagement metrics, and artist trends.
+
+
 ## 🛠️ Technologies Used
 
 - Python 3.x
