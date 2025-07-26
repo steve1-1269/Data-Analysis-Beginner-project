@@ -36,7 +36,7 @@ Each notebook in this repository corresponds to a specific dataset and analysis 
 
 7. 🎧 Spotify-YouTube Music Analysis
 
-   -This project analyzes a dataset of music tracks across **Spotify** and **YouTube** to uncover patterns in views, streams, likes, comments, engagement metrics, and artist trends.
+   This project analyzes a dataset of music tracks across **Spotify** and **YouTube** to uncover patterns in views, streams, likes, comments, engagement metrics, and artist trends.
 
 
 ## 🛠️ Technologies Used
